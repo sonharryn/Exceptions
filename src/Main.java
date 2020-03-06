@@ -27,7 +27,7 @@ public class Main {
         catch(FileNotFoundException e){
             System.out.println(e.getMessage());
         }
-
+        System.out.println("Test gib");
 
         /*try{
             int [] tal = {1,2,3};
